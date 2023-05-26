@@ -1,0 +1,170 @@
+PMID- 28967554
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180806
+LR  - 20220321
+IS  - 1873-7560 (Electronic)
+IS  - 0302-2838 (Print)
+IS  - 0302-2838 (Linking)
+VI  - 73
+IP  - 1
+DP  - 2018 Jan
+TI  - Adjuvant Sunitinib for High-risk Renal Cell Carcinoma After Nephrectomy: Subgroup 
+      Analyses and Updated Overall Survival Results.
+PG  - 62-68
+LID - S0302-2838(17)30772-8 [pii]
+LID - 10.1016/j.eururo.2017.09.008 [doi]
+AB  - BACKGROUND: Adjuvant sunitinib significantly improved disease-free survival (DFS) 
+      versus placebo in patients with locoregional renal cell carcinoma (RCC) at high 
+      risk of recurrence after nephrectomy (hazard ratio [HR] 0.76, 95% confidence 
+      interval [CI] 0.59-0.98; p=0.03). OBJECTIVE: To report the relationship between 
+      baseline factors and DFS, pattern of recurrence, and updated overall survival 
+      (OS). DESIGN, SETTING, AND PARTICIPANTS: Data for 615 patients randomized to 
+      sunitinib (n=309) or placebo (n=306) in the S-TRAC trial. OUTCOME MEASUREMENTS 
+      AND STATISTICAL ANALYSIS: Subgroup DFS analyses by baseline risk factors were 
+      conducted using a Cox proportional hazards model. Baseline risk factors included: 
+      modified University of California Los Angeles integrated staging system criteria, 
+      age, gender, Eastern Cooperative Oncology Group performance status (ECOG PS), 
+      weight, neutrophil-to-lymphocyte ratio (NLR), and Fuhrman grade. RESULTS AND 
+      LIMITATIONS: Of 615 patients, 97 and 122 in the sunitinib and placebo arms 
+      developed metastatic disease, with the most common sites of distant recurrence 
+      being lung (40 and 49), lymph node (21 and 26), and liver (11 and 14), 
+      respectively. A benefit of adjuvant sunitinib over placebo was observed across 
+      subgroups, including: higher risk (T3, no or undetermined nodal involvement, 
+      Fuhrman grade ≥2, ECOG PS ≥1, T4 and/or nodal involvement; hazard ratio [HR] 
+      0.74, 95% confidence interval [CI] 0.55-0.99; p=0.04), NLR ≤3 (HR 0.72, 95% CI 
+      0.54-0.95; p=0.02), and Fuhrman grade 3/4 (HR 0.73, 95% CI 0.55-0.98; p=0.04). 
+      All subgroup analyses were exploratory, and no adjustments for multiplicity were 
+      made. Median OS was not reached in either arm (HR 0.92, 95% CI 0.66-1.28; p=0.6); 
+      67 and 74 patients died in the sunitinib and placebo arms, respectively. 
+      CONCLUSIONS: A benefit of adjuvant sunitinib over placebo was observed across 
+      subgroups. The results are consistent with the primary analysis, which showed a 
+      benefit for adjuvant sunitinib in patients at high risk of recurrent RCC after 
+      nephrectomy. PATIENT SUMMARY: Most subgroups of patients at high risk of 
+      recurrent renal cell carcinoma after nephrectomy experienced a clinical benefit 
+      with adjuvant sunitinib. TRIAL REGISTRATION: ClinicalTrials.gov NCT00375674.
+CI  - Copyright © 2017 European Association of Urology. Published by Elsevier B.V. All 
+      rights reserved.
+FAU - Motzer, Robert J
+AU  - Motzer RJ
+AD  - Department of Oncology, Memorial Sloan Kettering Cancer Center, New York, NY, 
+      USA. Electronic address: motzerr@mskcc.org.
+FAU - Ravaud, Alain
+AU  - Ravaud A
+AD  - Department of Medical Oncology, Bordeaux University Hospital, Bordeaux, France.
+FAU - Patard, Jean-Jacques
+AU  - Patard JJ
+AD  - Centre Hospitalier De Mont De Marsan, Mont-de-Marsan, France.
+FAU - Pandha, Hardev S
+AU  - Pandha HS
+AD  - Department of Clinical and Experimental Medicine and Department of Microbial 
+      Sciences, University of Surrey, Guildford, UK.
+FAU - George, Daniel J
+AU  - George DJ
+AD  - Division of Oncology, Duke Cancer Center, Durham, NC, USA.
+FAU - Patel, Anup
+AU  - Patel A
+AD  - Spire Roding Hospital, London, UK.
+FAU - Chang, Yen-Hwa
+AU  - Chang YH
+AD  - Department of Urology, Taipei Veterans General Hospital, Taipei, Taiwan.
+FAU - Escudier, Bernard
+AU  - Escudier B
+AD  - Department of Medical Oncology, Institut Gustave Roussy, Villejuif, France.
+FAU - Donskov, Frede
+AU  - Donskov F
+AD  - Department of Oncology, Aarhus University Hospital, Aarhus, Denmark.
+FAU - Magheli, Ahmed
+AU  - Magheli A
+AD  - Department of Urology, Charité Universitaetsmedizin Berlin, Berlin, Germany.
+FAU - Carteni, Giacomo
+AU  - Carteni G
+AD  - Division of Oncology and Division of Urology, Azienda Ospedaliera di Rilievo 
+      Nazionale A. Cardarelli, Naples, Italy.
+FAU - Laguerre, Brigitte
+AU  - Laguerre B
+AD  - Medical Oncology, Centre Eugene Marquis, Rennes, France.
+FAU - Tomczak, Piotr
+AU  - Tomczak P
+AD  - Klinika Onkologii Oddzial Chemioterapii, Poznan, Poland.
+FAU - Breza, Jan
+AU  - Breza J
+AD  - Department of Urology, Slovak Medical University in Bratislava, Bratislava, 
+      Slovakia.
+FAU - Gerletti, Paola
+AU  - Gerletti P
+AD  - Pfizer S.r.L, Milan, Italy.
+FAU - Lechuga, Mariajose
+AU  - Lechuga M
+AD  - Pfizer S.r.L, Milan, Italy.
+FAU - Lin, Xun
+AU  - Lin X
+AD  - Pfizer Inc., La Jolla, CA, USA.
+FAU - Casey, Michelle
+AU  - Casey M
+AD  - Pfizer Inc., Collegeville, PA, USA.
+FAU - Serfass, Lucile
+AU  - Serfass L
+AD  - Pfizer Oncology, Paris, France.
+FAU - Pantuck, Allan J
+AU  - Pantuck AJ
+AD  - Department of Urology, Ronald Reagan UCLA Medical Center, Los Angeles, CA, USA.
+FAU - Staehler, Michael
+AU  - Staehler M
+AD  - Department of Urology, University Hospital of Munich, Munich, Germany.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT00375674
+GR  - P30 CA008748/CA/NCI NIH HHS/United States
+PT  - Clinical Trial, Phase III
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+DEP - 20170928
+TA  - Eur Urol
+JT  - European urology
+JID - 7512719
+RN  - 0 (Angiogenesis Inhibitors)
+RN  - 0 (Indoles)
+RN  - 0 (Pyrroles)
+RN  - V99T50803M (Sunitinib)
+SB  - IM
+CIN - Eur Urol. 2018 Jan;73(1):69-70. PMID: 29032154
+MH  - Aged
+MH  - Angiogenesis Inhibitors/adverse effects/*therapeutic use
+MH  - Carcinoma, Renal Cell/*drug therapy/mortality/secondary/*surgery
+MH  - Chemotherapy, Adjuvant
+MH  - Disease-Free Survival
+MH  - Female
+MH  - Humans
+MH  - Indoles/adverse effects/*therapeutic use
+MH  - Kaplan-Meier Estimate
+MH  - Kidney Neoplasms/*drug therapy/mortality/pathology/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - *Nephrectomy/adverse effects/mortality
+MH  - Proportional Hazards Models
+MH  - Pyrroles/adverse effects/*therapeutic use
+MH  - Risk Factors
+MH  - Sunitinib
+MH  - Time Factors
+MH  - Treatment Outcome
+PMC - PMC6684251
+MID - NIHMS1535781
+OTO - NOTNLM
+OT  - *Adjuvant
+OT  - *Disease-free survival
+OT  - *Renal cell carcinoma
+OT  - *Sunitinib
+EDAT- 2017/10/03 06:00
+MHDA- 2018/08/07 06:00
+CRDT- 2017/10/03 06:00
+PHST- 2017/06/14 00:00 [received]
+PHST- 2017/09/07 00:00 [accepted]
+PHST- 2017/10/03 06:00 [pubmed]
+PHST- 2018/08/07 06:00 [medline]
+PHST- 2017/10/03 06:00 [entrez]
+AID - S0302-2838(17)30772-8 [pii]
+AID - 10.1016/j.eururo.2017.09.008 [doi]
+PST - ppublish
+SO  - Eur Urol. 2018 Jan;73(1):62-68. doi: 10.1016/j.eururo.2017.09.008. Epub 2017 Sep 
+      28.
